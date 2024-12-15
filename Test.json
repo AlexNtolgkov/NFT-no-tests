@@ -1,0 +1,12 @@
+{
+    "name": "Girl",
+    "description": "This Girl is Hippolyta",
+    "image": "https://ipfs.io/ipfs//bafkreifv5x6kmdrpc2q4g77xkkwbfe2tnc5tqnea6j65etqzl2wxtj5osi",
+    "attributes": [
+      {
+        "trait_type": "Awesomeness",
+        "value": 100
+      }
+    ]
+  }
+  
